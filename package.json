@@ -1,0 +1,16 @@
+{
+  "name": "clicksmart-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the Click Smart Security Awareness Quiz Game",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "# Serve your frontend with a simple static server like 'http-server' or 'live-server'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["security", "quiz", "awareness", "game"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2" # Example: install a dev server
+  }
+}

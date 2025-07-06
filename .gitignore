@@ -1,0 +1,14 @@
+# Python Backend
+__pycache__/
+*.pyc
+.env
+instance/
+venv/
+quiz.db
+
+# Node Frontend
+node_modules/
+build/
+dist/
+.parcel-cache/
+.DS_Store

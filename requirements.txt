@@ -1,0 +1,5 @@
+Flask==2.3.2 # Or a newer version
+Flask-SQLAlchemy==3.1.1 # Or a newer version
+Werkzeug==2.3.7 # Or a newer version (often a Flask dependency)
+python-dotenv==1.0.0 # For environment variables
+# Add more as needed, e.g., Flask-CORS, bcrypt
