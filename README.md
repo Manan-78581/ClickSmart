@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Authentication-Secure%20Login-blueviolet?style=for-the-badge"/>
+</p>
+
 # ClickSmart 🧠✨
 
 **ClickSmart** is a full-stack web-based cybersecurity quiz platform built to help students practice challenging questions in an interactive and gamified environment. The app features real-time XP tracking, question difficulty levels, user authentication (with Guest Mode), and a professional UI with engaging animations.
