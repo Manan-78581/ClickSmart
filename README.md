@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Authentication-Secure%20Login-blueviolet?style=for-the-badge"/>
 </p>
 
+
 # ClickSmart 🧠✨
 
 **ClickSmart** is a full-stack web-based cybersecurity quiz platform built to help students practice challenging questions in an interactive and gamified environment. The app features real-time XP tracking, question difficulty levels, user authentication (with Guest Mode), and a professional UI with engaging animations.
