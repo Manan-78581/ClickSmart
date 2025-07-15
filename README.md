@@ -1,3 +1,4 @@
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -5,6 +6,7 @@
   <img src="https://img.shields.io/badge/Authentication-Secure%20Login-blueviolet?style=for-the-badge"/>
 </p>
 
+--- 
 
 # ClickSmart 🧠✨
 
