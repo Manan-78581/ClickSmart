@@ -100,7 +100,8 @@ flowchart LR
 ---
 ## 📸 Screenshots
 
-<img width="1919" height="861" alt="image" src="https://github.com/user-attachments/assets/848e882f-e949-48cd-905a-dea8029fcb47" />
+<img width="1903" height="854" alt="image" src="https://github.com/user-attachments/assets/dfd2d0aa-6065-4280-9981-9a5024ff044a" />
+
 
 ---
 ## 📄 License
