@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A VPN mode",
+      "Secure version of HTTP",
+      "A virus protocol",
+      "A firewall rule"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is two-factor authentication?",
+    "options": [
+      "Extra login step",
+      "Only username",
+      "No login required",
+      "Biometric only"
+    ],
+    "correct_answer": "Extra login step",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a firewall?",
+    "options": [
+      "Filters network traffic",
+      "Phishing tool",
+      "A password type",
+      "A virus"
+    ],
+    "correct_answer": "Filters network traffic",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a strong password?",
+    "options": [
+      "Just a name",
+      "Same as username",
+      "Only numbers",
+      "Long and contains symbols"
+    ],
+    "correct_answer": "Long and contains symbols",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a strong password?",
+    "options": [
+      "Long and contains symbols",
+      "Only numbers",
+      "Same as username",
+      "Just a name"
+    ],
+    "correct_answer": "Long and contains symbols",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is two-factor authentication?",
+    "options": [
+      "Only username",
+      "No login required",
+      "Extra login step",
+      "Biometric only"
+    ],
+    "correct_answer": "Extra login step",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a firewall?",
+    "options": [
+      "Filters network traffic",
+      "A password type",
+      "Phishing tool",
+      "A virus"
+    ],
+    "correct_answer": "Filters network traffic",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is phishing?",
+    "options": [
+      "A network device",
+      "A type of malware",
+      "Firewall tool",
+      "A fake email to steal data"
+    ],
+    "correct_answer": "A fake email to steal data",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a firewall?",
+    "options": [
+      "Phishing tool",
+      "A virus",
+      "A password type",
+      "Filters network traffic"
+    ],
+    "correct_answer": "Filters network traffic",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A VPN mode",
+      "A virus protocol",
+      "A firewall rule",
+      "Secure version of HTTP"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a firewall?",
+    "options": [
+      "A virus",
+      "Phishing tool",
+      "Filters network traffic",
+      "A password type"
+    ],
+    "correct_answer": "Filters network traffic",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A firewall rule",
+      "A VPN mode",
+      "Secure version of HTTP",
+      "A virus protocol"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is phishing?",
+    "options": [
+      "A fake email to steal data",
+      "A network device",
+      "Firewall tool",
+      "A type of malware"
+    ],
+    "correct_answer": "A fake email to steal data",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is a strong password?",
+    "options": [
+      "Long and contains symbols",
+      "Just a name",
+      "Only numbers",
+      "Same as username"
+    ],
+    "correct_answer": "Long and contains symbols",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A firewall rule",
+      "A virus protocol",
+      "A VPN mode",
+      "Secure version of HTTP"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is phishing?",
+    "options": [
+      "A fake email to steal data",
+      "A type of malware",
+      "Firewall tool",
+      "A network device"
+    ],
+    "correct_answer": "A fake email to steal data",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A VPN mode",
+      "A firewall rule",
+      "A virus protocol",
+      "Secure version of HTTP"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is phishing?",
+    "options": [
+      "Firewall tool",
+      "A network device",
+      "A type of malware",
+      "A fake email to steal data"
+    ],
+    "correct_answer": "A fake email to steal data",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A virus protocol",
+      "A VPN mode",
+      "A firewall rule",
+      "Secure version of HTTP"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What does HTTPS mean?",
+    "options": [
+      "A virus protocol",
+      "A firewall rule",
+      "Secure version of HTTP",
+      "A VPN mode"
+    ],
+    "correct_answer": "Secure version of HTTP",
+    "difficulty": "easy",
+    "xp_value": 10
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Port scan",
+      "Manipulating people",
+      "Coding trick",
+      "Encryption flaw"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Firewall bypass",
+      "VPN trick",
+      "Malicious SQL code",
+      "Secure SQL use"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Firewall bypass",
+      "VPN trick",
+      "Malicious SQL code",
+      "Secure SQL use"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Malicious SQL code",
+      "Firewall bypass",
+      "VPN trick",
+      "Secure SQL use"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "VPN error",
+      "Phishing trick",
+      "Encrypts and demands ransom",
+      "Firewall setting"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Phishing trick",
+      "Firewall setting",
+      "Encrypts and demands ransom",
+      "VPN error"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Malicious SQL code",
+      "Firewall bypass",
+      "Secure SQL use",
+      "VPN trick"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "VPN trick",
+      "Malicious SQL code",
+      "Secure SQL use",
+      "Firewall bypass"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Encrypts and demands ransom",
+      "Firewall setting",
+      "VPN error",
+      "Phishing trick"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Encrypts and demands ransom",
+      "Firewall setting",
+      "Phishing trick",
+      "VPN error"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "Why is public Wi-Fi risky?",
+    "options": [
+      "Secure always",
+      "Free usage",
+      "No password",
+      "Data interception risk"
+    ],
+    "correct_answer": "Data interception risk",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Phishing trick",
+      "VPN error",
+      "Firewall setting",
+      "Encrypts and demands ransom"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Encrypts and demands ransom",
+      "Phishing trick",
+      "Firewall setting",
+      "VPN error"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is a zero-day exploit?",
+    "options": [
+      "Unknown software flaw",
+      "Fixed bug",
+      "Strong password",
+      "User mistake"
+    ],
+    "correct_answer": "Unknown software flaw",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Secure SQL use",
+      "Firewall bypass",
+      "VPN trick",
+      "Malicious SQL code"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Secure SQL use",
+      "Malicious SQL code",
+      "Firewall bypass",
+      "VPN trick"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Encryption flaw",
+      "Port scan",
+      "Manipulating people",
+      "Coding trick"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "VPN error",
+      "Phishing trick",
+      "Firewall setting",
+      "Encrypts and demands ransom"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is a zero-day exploit?",
+    "options": [
+      "Fixed bug",
+      "User mistake",
+      "Unknown software flaw",
+      "Strong password"
+    ],
+    "correct_answer": "Unknown software flaw",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Coding trick",
+      "Encryption flaw",
+      "Port scan",
+      "Manipulating people"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "Why is public Wi-Fi risky?",
+    "options": [
+      "Data interception risk",
+      "No password",
+      "Secure always",
+      "Free usage"
+    ],
+    "correct_answer": "Data interception risk",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Coding trick",
+      "Encryption flaw",
+      "Port scan",
+      "Manipulating people"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "Why is public Wi-Fi risky?",
+    "options": [
+      "No password",
+      "Free usage",
+      "Secure always",
+      "Data interception risk"
+    ],
+    "correct_answer": "Data interception risk",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Manipulating people",
+      "Encryption flaw",
+      "Coding trick",
+      "Port scan"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Port scan",
+      "Manipulating people",
+      "Encryption flaw",
+      "Coding trick"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is social engineering?",
+    "options": [
+      "Encryption flaw",
+      "Port scan",
+      "Coding trick",
+      "Manipulating people"
+    ],
+    "correct_answer": "Manipulating people",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is ransomware?",
+    "options": [
+      "Encrypts and demands ransom",
+      "VPN error",
+      "Phishing trick",
+      "Firewall setting"
+    ],
+    "correct_answer": "Encrypts and demands ransom",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is a zero-day exploit?",
+    "options": [
+      "Strong password",
+      "User mistake",
+      "Unknown software flaw",
+      "Fixed bug"
+    ],
+    "correct_answer": "Unknown software flaw",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Firewall bypass",
+      "VPN trick",
+      "Secure SQL use",
+      "Malicious SQL code"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What is SQL Injection?",
+    "options": [
+      "Malicious SQL code",
+      "VPN trick",
+      "Firewall bypass",
+      "Secure SQL use"
+    ],
+    "correct_answer": "Malicious SQL code",
+    "difficulty": "medium",
+    "xp_value": 25
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Malware names",
+      "Passwords",
+      "Known vulnerabilities",
+      "Hackers"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Passwords",
+      "Malware names",
+      "Known vulnerabilities"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Secure routing",
+      "Fake ARP messages",
+      "Valid packets",
+      "IP tracing"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Known vulnerabilities",
+      "Passwords",
+      "Hackers",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Firewall rule",
+      "Intercept communication",
+      "Email hack",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Valid packets",
+      "Secure routing",
+      "IP tracing",
+      "Fake ARP messages"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Firewall rule",
+      "Intercept communication",
+      "Email hack",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Hackers",
+      "Malware names",
+      "Known vulnerabilities"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Intercept communication",
+      "Email hack",
+      "Firewall rule",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "IP tracing",
+      "Secure routing",
+      "Fake ARP messages",
+      "Valid packets"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Same method",
+      "Hashing is one-way",
+      "Both reversible",
+      "Hashing decrypts"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "SQL error",
+      "HTTPS bypass",
+      "Inject scripts in web",
+      "VPN break"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Valid packets",
+      "Secure routing",
+      "IP tracing",
+      "Fake ARP messages"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Hashing decrypts",
+      "Both reversible",
+      "Same method",
+      "Hashing is one-way"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Known vulnerabilities",
+      "Malware names",
+      "Passwords"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Direct access",
+      "Firewall rule",
+      "Intercept communication",
+      "Email hack"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "SQL error",
+      "HTTPS bypass",
+      "Inject scripts in web",
+      "VPN break"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Firewall rule",
+      "Email hack",
+      "Intercept communication",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Known vulnerabilities",
+      "Malware names",
+      "Hackers"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Same method",
+      "Hashing decrypts",
+      "Hashing is one-way",
+      "Both reversible"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Malware names",
+      "Hackers",
+      "Known vulnerabilities"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "Inject scripts in web",
+      "VPN break",
+      "SQL error",
+      "HTTPS bypass"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Known vulnerabilities",
+      "Malware names",
+      "Passwords"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Known vulnerabilities",
+      "Malware names",
+      "Hackers"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "Inject scripts in web",
+      "SQL error",
+      "VPN break",
+      "HTTPS bypass"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Known vulnerabilities",
+      "Hackers",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Malware names",
+      "Hackers",
+      "Known vulnerabilities",
+      "Passwords"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Secure routing",
+      "Valid packets",
+      "IP tracing",
+      "Fake ARP messages"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Known vulnerabilities",
+      "Passwords",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Email hack",
+      "Intercept communication",
+      "Direct access",
+      "Firewall rule"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Known vulnerabilities",
+      "Passwords",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Hashing decrypts",
+      "Same method",
+      "Hashing is one-way",
+      "Both reversible"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "IP tracing",
+      "Valid packets",
+      "Fake ARP messages",
+      "Secure routing"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Hackers",
+      "Known vulnerabilities",
+      "Passwords",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Fake ARP messages",
+      "Secure routing",
+      "IP tracing",
+      "Valid packets"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Both reversible",
+      "Hashing decrypts",
+      "Hashing is one-way",
+      "Same method"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "VPN break",
+      "SQL error",
+      "HTTPS bypass",
+      "Inject scripts in web"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Both reversible",
+      "Hashing is one-way",
+      "Hashing decrypts",
+      "Same method"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is ARP spoofing?",
+    "options": [
+      "Valid packets",
+      "Fake ARP messages",
+      "IP tracing",
+      "Secure routing"
+    ],
+    "correct_answer": "Fake ARP messages",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Known vulnerabilities",
+      "Passwords",
+      "Malware names",
+      "Hackers"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Direct access",
+      "Email hack",
+      "Firewall rule",
+      "Intercept communication"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "HTTPS bypass",
+      "SQL error",
+      "VPN break",
+      "Inject scripts in web"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "Explain cross-site scripting (XSS).",
+    "options": [
+      "HTTPS bypass",
+      "Inject scripts in web",
+      "VPN break",
+      "SQL error"
+    ],
+    "correct_answer": "Inject scripts in web",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Hackers",
+      "Malware names",
+      "Known vulnerabilities"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Malware names",
+      "Hackers",
+      "Known vulnerabilities",
+      "Passwords"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Hashing is one-way",
+      "Same method",
+      "Both reversible",
+      "Hashing decrypts"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What does the CVE database track?",
+    "options": [
+      "Passwords",
+      "Hackers",
+      "Known vulnerabilities",
+      "Malware names"
+    ],
+    "correct_answer": "Known vulnerabilities",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is the difference between hashing and encryption?",
+    "options": [
+      "Same method",
+      "Hashing is one-way",
+      "Both reversible",
+      "Hashing decrypts"
+    ],
+    "correct_answer": "Hashing is one-way",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Firewall rule",
+      "Intercept communication",
+      "Email hack",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  },
+  {
+    "text": "What is a man-in-the-middle attack?",
+    "options": [
+      "Intercept communication",
+      "Email hack",
+      "Firewall rule",
+      "Direct access"
+    ],
+    "correct_answer": "Intercept communication",
+    "difficulty": "difficult",
+    "xp_value": 50
+  }
+]

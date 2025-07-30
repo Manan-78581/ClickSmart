@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClickSmart Quiz</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- Login Section -->
+<div class="container login-section" id="login-section">
+  <h2 class="mb-4 text-info">🔐 Welcome to ClickSmart</h2>
+
+  <!-- Username First -->
+  <div class="mb-3">
+    <input id="username" type="text" class="form-control w-50 mx-auto" placeholder="Enter your email or username" />
+  </div>
+  <div class="mb-3">
+    <input id="password" type="password" class="form-control w-50 mx-auto" placeholder="Enter your password" />
+  </div>
+
+  <div class="d-grid gap-2 col-6 mx-auto">
+    <button onclick="startSession()" class="btn btn-success">Login</button>
+    <button onclick="startGuest()" class="btn btn-outline-light">Login as Guest</button>
+    <button onclick="signUp()" class="btn btn-secondary">Sign Up</button>
+  </div>
+</div>
+
+
+  <!-- Quiz Section -->
+  <div class="quiz-container d-none" id="quiz-section">
+    <div class="d-flex justify-content-between">
+      <div id="xp-info" class="xp-badge">Total XP: 0</div>
+      
+    </div>
+    <div id="question-box" class="mb-3 mt-2"></div>
+    <div id="answer-options" class="mb-3"></div>
+    <div id="feedback" class="feedback"></div>
+    <button onclick="nextQuestion()" class="btn btn-success d-none btn-next" id="next-btn">Next Question</button>
+  </div>
+
+  <!-- Profile Button in top right -->
+<div id="profile-button-container">
+  <button onclick="viewProfile()" class="fancy-profile-btn">
+    <span>👤 Profile</span>
+  </button>
+</div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,5 +1,21 @@
-Flask==2.3.2 # Or a newer version
-Flask-SQLAlchemy==3.1.1 # Or a newer version
-Werkzeug==2.3.7 # Or a newer version (often a Flask dependency)
-python-dotenv==1.0.0 # For environment variables
-# Add more as needed, e.g., Flask-CORS, bcrypt
+# Web Framework
+Flask==2.3.3
+
+# MongoDB integration
+Flask-PyMongo==2.3.0
+
+# Password hashing
+bcrypt==4.1.2
+
+# Environment variable loading
+python-dotenv==1.0.1
+
+# CORS support for frontend-backend requests
+Flask-Cors==4.0.0
+
+# (Optional) For JSON validation and sanitization (if needed later)
+pymongo==4.6.0
+
+# (Optional) Useful Flask extensions (you can uncomment if needed)
+# Flask-Login==0.6.3
+# Flask-WTF==1.2.1
